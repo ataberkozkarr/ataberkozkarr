@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ataberk ÖZKAR</h1>
-<h3 align="center">I'm an electrical and electronic engineer and software developer from Turkey</h3>
+<h3 align="center">Hi, my name is Ataberk, I was born in Istanbul in 1998. I played basketball in middle school and high school under license. I try to read at least 1 book a month. I am a student of electrical and electronics engineering at MEF University.From the first year of the university, I have turned to software and I try to improve myself in this field.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
